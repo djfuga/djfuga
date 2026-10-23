@@ -59,7 +59,7 @@ Where I like to be: **data engineering**, **cloud**, **machine learning** and **
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
-  <img src="assets/light/stack.svg" width="100%" alt="Stack: PostgreSQL, MongoDB, Cassandra, SQL, Spark, Kafka, PyTorch, scikit-learn, MLflow, Docker, Kubernetes, Airflow, Linux, Git, Python, Flask.">
+  <img src="assets/light/stack.svg" width="100%" alt="Stack as a Renaissance night landscape: a castle on a hill with its town running down to the river, a moonlit lake, forests, fields and roads; curved shooting stars carry each technology down to its settlement — DATA: SQL, PostgreSQL, Apache Iceberg, MinIO; NOSQL: MongoDB, Cassandra; STREAMING: Apache Kafka, Apache Spark, Spark Streaming, Apache Flink; ML &amp; AI: PyTorch, scikit-learn, MLflow, GANs, LLMs; OPS: Docker, Kubernetes, Helm, Airflow, Prometheus, Grafana; BACKEND: Python, Flask, WebSockets; FRONTEND: HTML, CSS; TOOLS: Git, Linux, Jupyter, Google Colab.">
 </picture>
 
 <picture>
