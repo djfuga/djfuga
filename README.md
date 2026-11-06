@@ -1,75 +1,38 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg">
-  <img src="assets/light/header.svg" width="100%" alt="David José Funes Gabaldón — Data Engineering Student. Data Engineering · Machine Learning · Cloud · AI &amp; Data.">
-</picture>
+<img src="assets/expo/header.svg" width="100%" alt="David José Funes Gabaldón — Data Engineering Student. Data Engineering · Machine Learning · Cloud · AI &amp; Data.">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davidjfunesgabaldon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-linkedin.svg"><img src="assets/light/link-linkedin.svg" height="50" alt="LinkedIn"></picture></a>
+  <a href="https://www.linkedin.com/in/davidjfunesgabaldon"><img src="assets/expo/link-linkedin.svg" height="52" alt="LinkedIn"></a>
   &nbsp;&nbsp;
-  <a href="mailto:djfuga0@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-email.svg"><img src="assets/light/link-email.svg" height="50" alt="Email"></picture></a>
+  <a href="mailto:djfuga0@gmail.com"><img src="assets/expo/link-email.svg" height="52" alt="Email"></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-about.svg">
-  <img src="assets/light/sec-about.svg" width="100%" alt="About">
-</picture>
+<img src="assets/expo/sec-about.svg" width="100%" alt="About">
 
 Data Systems Engineering student at **ETSIT-UPM**.
 
 Where I like to be: **data engineering**, **cloud**, **machine learning** and **AI**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider-heart.svg">
-  <img src="assets/light/divider-heart.svg" width="100%" alt="">
-</picture>
+<img src="assets/expo/divider-1.svg" width="100%" alt="">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-work.svg">
-  <img src="assets/light/sec-work.svg" width="100%" alt="Featured work">
-</picture>
+<img src="assets/expo/sec-work.svg" width="100%" alt="Featured work">
 
 <p>
-  <a href="https://github.com/djfuga/flight-delay-streaming-pipeline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/pipeline.svg"><img src="assets/light/pipeline.svg" width="49%" alt="Real-time flight delays — streaming pipeline with Kafka, Spark and Cassandra on Docker and Kubernetes."></picture></a>
-  <a href="https://github.com/djfuga/Traduccion-Imagenes-Satelite-PASD"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/pix2pix.svg"><img src="assets/light/pix2pix.svg" width="49%" alt="Satellite to map with GANs — bidirectional Pix2Pix in PyTorch, SSIM 0.79, published on the UPM blog."></picture></a>
+  <a href="https://github.com/djfuga/flight-delay-streaming-pipeline"><img src="assets/expo/work-pipeline.svg" width="49%" alt="Real-time flight delays — streaming pipeline with Kafka, Spark and Cassandra on Docker and Kubernetes, with Airflow retraining."></a>
+  <a href="https://github.com/djfuga/Traduccion-Imagenes-Satelite-PASD"><img src="assets/expo/work-pix2pix.svg" width="49%" alt="Satellite and map, both directions, with GANs — bidirectional Pix2Pix (U-Net + PatchGAN) in PyTorch, SSIM 0.79 satellite to map, published on the UPM blog."></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider-quill.svg">
-  <img src="assets/light/divider-quill.svg" width="100%" alt="">
-</picture>
+<img src="assets/expo/divider-2.svg" width="100%" alt="">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-projects.svg">
-  <img src="assets/light/sec-projects.svg" width="100%" alt="Projects">
-</picture>
+<img src="assets/expo/sec-projects.svg" width="100%" alt="Projects">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg">
-  <img src="assets/light/projects.svg" width="100%" alt="Projects: gemelo-virtual (private, bachelor's thesis); multimodal-analyst-assistant (public, code owner); flight-delay-streaming-pipeline (public); Traduccion-Imagenes-Satelite-PASD (public); custodia (private); coming soon.">
-</picture>
+<img src="assets/expo/projects.svg" width="100%" alt="Projects: gemelo-virtual (private, tfg) — Bachelor's thesis · under wraps; multimodal-analyst-assistant (public, code owner) — Multimodal assistant for fleet data: gestures, streaming pipeline and an LLM agent; flight-delay-streaming-pipeline (public) — Real-time flight delay prediction: streaming pipeline on Kubernetes; Traduccion-Imagenes-Satelite-PASD (public) — Bidirectional satellite and map translation with conditional GANs; custodia (private) — Personal project · under wraps; coming soon.">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider-stars.svg">
-  <img src="assets/light/divider-stars.svg" width="100%" alt="">
-</picture>
+<img src="assets/expo/divider-3.svg" width="100%" alt="">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sec-stack.svg">
-  <img src="assets/light/sec-stack.svg" width="100%" alt="Stack">
-</picture>
+<img src="assets/expo/sec-stack.svg" width="100%" alt="Stack">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack-night.svg">
-  <img src="assets/light/stack-night.svg" width="100%" alt="Stack as a Renaissance night landscape: a castle on a hill with its town running down to the river, a moonlit lake, forests, fields and roads; curved shooting stars carry each technology down to its settlement — DATA: SQL, PostgreSQL, Apache Iceberg, MinIO; NOSQL: MongoDB, Cassandra; STREAMING: Apache Kafka, Apache Spark, Spark Streaming, Apache Flink; ML &amp; AI: PyTorch, scikit-learn, MLflow, GANs, LLMs; OPS: Docker, Kubernetes, Helm, Airflow, Prometheus, Grafana; BACKEND: Python, Flask, WebSockets; FRONTEND: HTML, CSS; TOOLS: Git, Linux, Jupyter, Google Colab.">
-</picture>
+<img src="assets/expo/stack.svg" width="100%" alt="Stack — DATA: SQL, PostgreSQL, Apache Iceberg, MinIO; NOSQL: MongoDB, Cassandra; STREAMING: Apache Kafka, Apache Spark, Spark Streaming, Apache Flink; ML &amp; AI: PyTorch, scikit-learn, MLflow, GANs, LLMs; OPS: Docker, Kubernetes, Helm, Airflow, Prometheus, Grafana; BACKEND: Python, Flask, WebSockets; FRONTEND: HTML, CSS; TOOLS: Git, Linux, Jupyter, Google Colab">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider-staff.svg">
-  <img src="assets/light/divider-staff.svg" width="100%" alt="">
-</picture>
+<img src="assets/expo/divider-4.svg" width="100%" alt="">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg">
-  <img src="assets/light/footer.svg" width="100%" alt="King David plays a golden harp; musical notes drift through the dark.">
-</picture>
-
+<img src="assets/expo/footer.svg" width="100%" alt="Exit of the expo: an admission ticket gets stamped THANK YOU FOR VISITING.">
